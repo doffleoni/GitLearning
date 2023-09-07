@@ -1,1 +1,18 @@
-Hello world!
+  154  git remote set-url origin https://github.com/doffleoni/basejava-1.git
+  155  git remote set-url origin https://github.com/doffleoni/basejava-1
+  156  git remote set-url origin https://github.com/doffleoni/basejava-1.git
+  358  git remote -v
+  359  git remote add origin https://github.com/doffleoni/GitRoot.git
+  360  git remote -v
+  364  git remote add origin https://github.com/doffleoni/GitRoot.git
+  365  git remote -v
+  367  git remote add origin https://github.com/doffleoni/GitLearning.git
+  368  git remote add gittwo https://github.com/doffleoni/GitLearning.git
+  369  git remote -v
+  383  git remote add gittwo https://github.com/doffleoni/GitLearning.git
+  389  git remote add gittwo https://github.com/doffleoni/GitLearning.git
+  390  git remote add origin https://github.com/doffleoni/GitLearning.git
+  396  history |grep "git remote"
+  397  history |grep "git remote" >test1.txt
+  400  git remote -v
+  416  history |grep "remote" >test1.txt

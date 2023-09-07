@@ -1,0 +1,88 @@
+  154  git remote set-url origin https://github.com/doffleoni/basejava-1.git
+  155  git remote set-url origin https://github.com/doffleoni/basejava-1
+  156  git remote set-url origin https://github.com/doffleoni/basejava-1.git
+  288  git status
+  289  git diff
+  290  git diff --staged
+  291  git
+  292  git log
+  293  git diff 98e394d382ab925adc3469d65853c766c9efb479
+  294  git diff 53a93f79bfeef045360b08ba4131ccc0d58de229
+  295  git add *.txt
+  296  git status
+  297  git diff --staged
+  298  git log
+  299  git commit -m "Change file1.txt"
+  300  git log
+  301  git
+  302  git show
+  303  git diff
+  304  git add *.txt
+  305  git status
+  306  git diff
+  307  git diff --staged
+  308  git commit -m "add description for git commit in file1.txt"
+  309  git status
+  310  git log
+  311  git HEAD^
+  312  git --help
+  313  git help reset
+  314  git log
+  315  git reset --soft HEAD^
+  316  git status
+  317  git log
+  318  git commit -m "Add description in file1.txt"
+  319  git log
+  320  git
+  324  git init
+  325  git status
+  326  git add.
+  327  git add .
+  328  git status
+  330  git add *.txt
+  331  git status
+  332  git commit -m "add all txt files"
+  333  git log
+  334  git diff
+  335  git diff --staged
+  336  git show
+  339  git log
+  340  git checkout HEAD^^
+  341  git log
+  342  git status
+  343  git checkout master
+  344  git status
+  345  git log
+  346  git checkout HEAD^^
+  347  git checkout master
+  348  git status
+  349  git add .
+  350  git commit -m "add desc checkout in file1.txt"
+  351  git log
+  352  git checkout HEAD^
+  353  git checkout master
+  354  git log
+  356  git status
+  358  git remote -v
+  359  git remote add origin https://github.com/doffleoni/GitRoot.git
+  360  git remote -v
+  361  git push https://github.com/doffleoni/GitRoot.git
+  362  git push --help
+  363  git push origin master
+  364  git remote add origin https://github.com/doffleoni/GitRoot.git
+  365  git remote -v
+  366  git push origin master
+  367  git remote add origin https://github.com/doffleoni/GitLearning.git
+  368  git remote add gittwo https://github.com/doffleoni/GitLearning.git
+  369  git remote -v
+  370  git push gittwo master
+  383  git remote add gittwo https://github.com/doffleoni/GitLearning.git
+  389  git remote add gittwo https://github.com/doffleoni/GitLearning.git
+  390  git remote add origin https://github.com/doffleoni/GitLearning.git
+  391  git status
+  395  git log
+  396  history |grep "git remote"
+  397  history |grep "git remote" >test1.txt
+  400  git remote -v
+  401  git status
+  404  history |grep "git" > test2.txt
