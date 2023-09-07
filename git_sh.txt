@@ -1,0 +1,8 @@
+  476  ls -al ~/.ssh
+  482  ls -al ~/.ssh
+  483  ls -al ~/ .ssh
+  485  ssh-keygen -t rsa -b 4096 -C "doffleoni@mail.ru"
+  486  eval $(ssh-agent -s)
+  487  ssh-add ~/.ssh/id_rsa
+  488  clip < ~/.ssh/id_rsa.pub
+  507  history |grep "ssh" > git_sh.txt
